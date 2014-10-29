@@ -1,0 +1,1 @@
+define(["angular"],function(e){e.module("mySer",[]).factory("mySerSer",function(){return{name:"world!"}})});

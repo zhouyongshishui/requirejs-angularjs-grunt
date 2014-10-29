@@ -1,0 +1,1 @@
+define(["angular","service/mySer"],function(e){e.module("myCon",["mySer"]).controller("myConCon",["$scope","mySerSer",function(e,t){e.login=t.name}])});

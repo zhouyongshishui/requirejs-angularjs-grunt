@@ -1,0 +1,1 @@
+define(["angular","controller/myCon"],function(e){var t=e.module("myApp",["myCon"]);return t});

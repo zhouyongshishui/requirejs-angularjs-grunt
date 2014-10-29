@@ -1,0 +1,9 @@
+
+js/main.js
+----------------
+js/lib/jquery.js
+js/lib/angular.js
+js/service/mySer.js
+js/controller/myCon.js
+js/app.js
+js/main.js
